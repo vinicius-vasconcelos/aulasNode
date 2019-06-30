@@ -1,6 +1,6 @@
 # aulasNode
 #Exercícios feitos em Node.js com banco de dados MYSQL e MONGODB</br>
-<small>#Express, Express Validator, Consign, Body-Parser, WebSocket.io</small>
+<small>#Express, Express Validator, Consign, Body-Parser, WebSocket.io (feito junto Desenvolvimento Web Completo - UDEMY)</small>
 
 <b>aula_noticias</b></br>
 <i>Apenas servidor(porta 3000)</i>
